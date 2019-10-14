@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.MenuUL {
+  list-style:none;
+  display: flex;
+  flex-direction: row;
+  background-color: #09d3ac;
+
+
+}
+
+.MenuLiA {
+
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
